@@ -7737,6 +7737,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Made With ❤️ by [Hazrat Ali](https://github.com/Hazrat-Ali9/MySQL-Database-Basic-To-Advanced)
 
-**Happy Learning! 🚀**
+**Happy Learning! 🤖**
 
 </div>
