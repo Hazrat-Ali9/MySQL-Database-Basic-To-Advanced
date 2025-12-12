@@ -1,4 +1,5 @@
-# 📚 All About MySQL - Complete SQL Learning Guide
+# 📚 MySQL-Database-Basic-To-Advanced
+
 
 > A comprehensive guide to SQL and MySQL database concepts in Bangla (বাংলা) and English.  
 > 🌟 **Perfect for beginners to advanced developers** | 💡 **Real-world examples** | 🚀 **Interview ready**
