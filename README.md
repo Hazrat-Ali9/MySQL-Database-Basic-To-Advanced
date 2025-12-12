@@ -7724,14 +7724,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🌟 Star History
-
-যদি এই repository আপনার কাজে লাগে, তাহলে একটা ⭐ দিয়ে সাপোর্ট করুন!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=https://github.com/Hazrat-Ali9/MySQL-Database-Basic-To-Advanced&type=Date)](https://star-history.com/#https://github.com/Hazrat-Ali9/MySQL-Database-Basic-To-Advanced)
-
----
-
 ## 📊 Repository Stats
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/https://github.com/Hazrat-Ali9/MySQL-Database-Basic-To-Advanced)
@@ -7743,10 +7735,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### Made with ❤️ by [Hazrat Ali](https://github.com/Hazrat-Ali9/MySQL-Database-Basic-To-Advanced)
+### Made With ❤️ by [Hazrat Ali](https://github.com/Hazrat-Ali9/MySQL-Database-Basic-To-Advanced)
 
 **Happy Learning! 🚀**
 
-[⬆ Back to Top](#-all-about-mysql---complete-sql-learning-guide)
+[⬆ Back to Top](# MySQL-Database-Basic-To-Advanced)
 
 </div>
