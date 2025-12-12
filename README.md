@@ -7708,7 +7708,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Reduan Ahmad**
+**Hazrat Ali**
 - 🌐 GitHub: [@Hazrat-Ali9](https://github.com/Hazrat-Ali9)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/hazratali9/)
 - 📧 Email: [Contact](programmer.hazratali@gmail.com)
